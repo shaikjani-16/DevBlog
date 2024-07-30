@@ -1,0 +1,7 @@
+name = "medium"
+compatibility_date = "2023-12-01"
+
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiY2QwMmY3YmMtMDg2My00OWM0LWJjZDEtNWVlM2I0MGU0YTQwIiwidGVuYW50X2lkIjoiZGZlZmJlZjYyNTA5OTYwMDc0ZDc0ZGM2ZDlkODM1Y2U1ZjkzZWM1ZWMyZWVhMDNlMzRjY2E5MzRmOWQ3ZDcyMiIsImludGVybmFsX3NlY3JldCI6IjI2YzRmYTQzLTUyNzItNDQ5Yi1hOTVmLThiMzdkYWY3ZDYzZSJ9.PYBwrrTAOZwp0jIW8xBr6rJvyZpoT-ACLUFwy7ylVOo"
+JWT_SECRET="shaikjani"
